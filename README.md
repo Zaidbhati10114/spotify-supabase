@@ -1,3 +1,6 @@
+
+![Screenshot 2023-09-13 at 11 46 24 PM](https://github.com/Zaidbhati10114/spotify-supabase/assets/59171704/1d3b8a5f-015b-40f0-aaba-5f299c012983)
+
 This is a repository for a Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe.
 
 Key Features:
