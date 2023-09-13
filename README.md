@@ -5,6 +5,8 @@ This is a repository for a Full Stack Spotify Clone with Next.js 13.4 App Router
 
 Key Features:
 
+LIVE Website => https://spotify-supabase-nine.vercel.app/
+
 => Song upload
 => Stripe integration
 => Tailwind design for sleek UI
